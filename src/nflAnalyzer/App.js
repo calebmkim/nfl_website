@@ -1,7 +1,6 @@
-
-import React from 'react';
-import nflAnalyzer from './nflAnalyzer/nflAnalyzer';
+import logo from './logo.svg';
 import './App.css';
+import nflAnalyzer from './nflAnalyer/nflAnalyer'
 
 function App() {
   return (

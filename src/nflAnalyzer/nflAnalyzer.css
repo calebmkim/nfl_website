@@ -1,0 +1,177 @@
+.setup{
+    background-color: rgb(49, 49, 49);
+}
+.week {
+    font-family:'Copperplate';
+    text-align: center;
+    /*background-image: linear-gradient(#013369,#d50a0a);*/
+    background-color:rgb(49, 49, 49);
+    color:white;
+    box-shadow: 0px 0px 25px rgba(0,0,0,.5);
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%
+}
+
+.conferenceStandings{
+    display:inline-block;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 25px;
+}
+
+.divisionStandings{
+    margin-bottom: 10px;
+}
+
+
+.standings{
+    color:white;
+    font-family: 'copperPlate';
+    text-align: center;
+}
+
+.playoffRound {
+    display: inline-block;
+    vertical-align:top;
+
+}
+
+.tbdButton{
+    font-weight:normal;
+    font-family: "Copperplate";
+    width: 175px;
+    height: 175px;
+    border-radius: 30%;
+    color: black;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+.playoffs{
+    font-family: "Copperplate";
+    color:white;
+}
+
+.boldButton{
+    font-weight:bold;
+    font-family: "Copperplate";
+    width: 175px;
+    height: 175px;
+    border-radius: 30%;
+    color: green;
+    margin-bottom: 20px;
+
+}
+
+.regButton{
+    font-weight:normal;
+    font-family: "Copperplate";
+    color: white;
+    width: 175px;
+    height: 175px;
+    border:none;
+    border-radius:30%;
+    margin-bottom: 20px;
+
+}
+.about{
+    font-family: 'Copperplate';
+    color:white; 
+    font-size:30px;
+    text-align: center;
+}
+.ARI{
+    background-image:linear-gradient(#97233F, black)
+}
+.ATL{
+    background-image:linear-gradient(#A71930, black)
+}
+.BAL{
+    background-image:linear-gradient(#241773, black)
+}
+.BUF{
+    background-image:linear-gradient(#00338D, #C60C30)
+}
+.CAR{
+    background-image:linear-gradient(black, #0085CA)
+}
+.CHI{
+    background-image:linear-gradient(#C83803, #0B162A)
+}
+.CIN{
+    background-image:linear-gradient(#FB4F14, black)
+}.CLE{
+    background-image:linear-gradient(#FF3C00, #311D00)
+}
+.DAL{
+    background-image:linear-gradient(#869397, #041E42)
+}
+.DEN{
+    background-image:linear-gradient(#FB4F14, #002244)
+}
+.DET{
+    background-image:linear-gradient(#B0B7BC, #0076B6)
+}.GB{
+    background-image:linear-gradient(#FFB612, #203731)
+}
+.HOU{
+    background-image:linear-gradient(#A71930, #03202F)
+}
+.IND{
+    background-image:linear-gradient(#A2AAAD, #002C5F)
+}
+.JAC{
+    background-image:linear-gradient(#9F792C, #006778)
+}.KC{
+    background-image:linear-gradient(#FFB81C, #E31837)
+}
+.LAC{
+    background-image:linear-gradient(#0080C6, #FFC20E)
+}
+.LAR{
+    background-image:linear-gradient(#FFA300, #003594)
+}
+.MIA{
+    background-image:linear-gradient(#008E97, #FC4C02)
+}
+.MIN{
+    background-image:linear-gradient(#FFC62F, #4F2683)
+}.NE{
+    background-image:linear-gradient(#C60C30, #002244)
+}
+.NO{
+    background-image:linear-gradient(#D3BC8D, #101820)
+}
+.NYG{
+    background-image:linear-gradient(#A71930, #0B2265)
+}
+.NYJ{
+    background-image:linear-gradient(#125740, black)
+}.LV{
+    background-image:linear-gradient(#A5ACAF, black)
+}
+.PHI{
+    background-image:linear-gradient(#A5ACAF, #004C54)
+}
+.PIT{
+    background-image:linear-gradient(#FFB612, black)
+}
+.SF{
+    background-image:linear-gradient(#B3995D, #AA0000)
+}
+.SEA{
+    background-image:linear-gradient(#A5ACAF, #002244)
+}
+.TB{
+    background-image:linear-gradient(#B1BABF, #D50A0A)
+}
+.TEN{
+    background-image:linear-gradient(#4B92DB, #0C2340)
+}.WFT{
+    background-image:linear-gradient(#FFB612, #773141)
+}
+
+
+
+

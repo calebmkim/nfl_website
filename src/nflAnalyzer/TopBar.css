@@ -1,0 +1,59 @@
+#topbar {
+    width: 100%;
+    background-color:gray;
+    color:white;
+    /*height: 80px;
+    font-family:'Copperplate';
+    font-size: 80px;
+    color:white;*/
+  }
+
+  .separator {
+    width: 5px;
+    height:45px;
+    background-color:lightblue;
+    margin-left: 15px;
+    margin-right: 15px;
+    display: inline-block;
+  }
+
+  #websiteTitle{
+    font-size: 40px;
+    font-family: 'copperPlate';
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 15px;
+  }
+
+  #seeCurrentStandings{
+    font-family: 'CopperPlate';
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  #goToPlayoffs{
+    font-family: 'CopperPlate';
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  #weekSelector{
+    align-items: center;
+    display: inline-block;
+    font-family:'copperPlate';
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 20px;
+  }
+
+  .center {
+    position: relative;
+    top: 50%;
+    transform: translate(0, -20%);
+    padding: 10px;
+    }
+  .centerDD{
+    transform:translate(0,10%);
+  }
